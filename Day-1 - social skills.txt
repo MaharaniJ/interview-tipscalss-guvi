@@ -1,0 +1,230 @@
+Day-1 - social skills
+stop telling story in self into
+represent professionally
+dont tell carreer gap in self intro
+dont give negative comments and negative feedback about degree
+
+academic achievements and certificate course
+
+tell about the tech skills
+
+hoppies not need 
+
+I good at the backend or frontend
+
+My technical skills are MERN
+
+carrier goal - 
+
+carrier gap:
+
+convince them with valid reason
+
+HR Round:
+educational background 
+rarely family background - because it is personal
+
+dont use repeated words :
+ex: so, like, you know, uh, hmm, actually
+
+dont use low voice self-intro
+
+behavioural based question:
+carrier gap:
+
+domain change:
+
+strength and weekness
+
+weekness:
+allways positive person
+
+
+Tech Round:
+
+
+Group discursion:
+
+
+1.self-intro
+2.project- explanation:
+   porpose
+  toolsand techniques
+  users
+add collage project if the required field match atleast 10%
+
+keep resume updated
+
+language known:
+not needed
+nationlity
+profile picture
+full address
+
+
+ATS:  filter
+resume tracking system
+
+Freshers should focus on resume
+
+prefere mild colors for build resume
+
+Soft Skills:
+Proplem solving, Team work
+communication
+Time Management 
+Responsive Web Desing
+
+prefer single page resume
+
+gothrough-JD:
+
+Session:
+Linked In
+Resume build 
+
+Talent Acquisations specialist
+
+Tricky Questions & Answers
+
+
+sunday-class:
+
+development and operation
+CI & CD
+ tools for full stack development
+AI - is a tool is enhance our development and save time to complete quickly.
+
+
+micro services with reactjs and nodejs:
+API - 
+node handles the multiple apis with the help of express server
+
+client:
+browsers are the clients:
+like chrome
+firefox
+safari
+
+https://www.amazon.in WHAT happened when make the request
+1.go into the DNS server and find the domain amazon.in (what is the IP address:port(door no))
+2. Ip address refers to the computer (Internet service provider)
+
+Mongodb: 27017(port no)
+Express, node : 3000
+React:2517
+
+Browser can understand only:
+html css and js
+
+client and servers are computers:
+with the help of internet let to talk or communicate both client and server
+
+HTML:hypertext markup language
+http:hypertext  transfer protocal
+protocalls:
+rules and regulations
+
+server respons with html
+
+npm run build:
+can access from all the browser
+svg 
+js
+ and css files are created within the dist folder
+
+
+servers:
+web servers:
+only always uses (HTML,CSS,JS)
+deploy in netlify
+
+Application servers:
+(JSON,SERVER XML)  
+deploy in render
+
+express can act as application and web server
+
+.ejs : HTML only
+
+with hepl of template engin we can add html in nodejs
+
+Reactjs is not pure js
+
+web :
+it is earlier stage of internet
+www.mysite.com
+it will give you a page the page will have the information we needed (we can only read we cant interact with website)
+it will be html css and js(only for validate)
+
+
+web 2.o:
+
+website + CRUD(Interactivity) = web Application
+
+Web 3.o:
+
+
+https://docs.google.com/document/d/1n9Ro8c9FfbCu949LQ-C4Xw8bsQDxBXCmKoC0tmQFX2w/edit?usp=sharing
+
+
+placement process- Day-2:
+
+Self-intro:
+dont mention career gap 
+year of passing
+
+add about project
+add technologies used for the project
+enhance skills and technology 
+add projects
+any certificate course should add
+career goal
+
+ short term goal and longterm goals - dont need
+strength and weekness: - not need
+good problem solving 
+quick learner
+time- management
+
+confident 
+voice modulation
+gramatical mistaes
+
+I have completed the certification course in (MERN stack) in guvi
+
+I have done no of projects
+
+technical skills and tools
+basics of js html css
+
+government exam gap:
+
+
+
+my experties are
+
+portrodi@guvi.in
+
+
+
+npm 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
